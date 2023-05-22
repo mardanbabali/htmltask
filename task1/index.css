@@ -1,0 +1,37 @@
+body{
+    background-color: blue;
+}
+
+#card{
+    width: 200px;
+    height: fit-content;
+    margin: auto;
+    background-color: aqua;
+    padding: 10px;
+}
+#input1{
+margin-bottom: 10px;
+}
+
+#input2{
+margin-bottom: 10px;
+
+}
+button{
+    margin-top: 10px;
+    margin-left:20px ;
+    padding: 5px;
+
+    background-color: rgb(104, 104, 211);
+    color: white;
+    
+}
+
+#mydiv{
+    margin-right: 10px;
+}
+#button2{
+    margin-left: 60px;
+}
+
+
